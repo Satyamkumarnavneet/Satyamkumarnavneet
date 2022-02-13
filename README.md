@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/satyamkumarnavneet/](https://www.linkedin.com/in/satyamkumarnavneet/)
 
-- ⚡ Fun fact **I think I'm not funny**
+- ⚡ Fun fact: **I think I'm not funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
