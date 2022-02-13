@@ -7,6 +7,7 @@
 
 **About me:**
 <p> I'm A 2nd Year Undergraduate From Chandigarh university, Pursuing B.tech In Computer Science Engineering. As a Web Development Enthusiast, I Am Also Learning Android Development, Google Cloud, And Planning To Make A Career In It. Actively looking For Internships.</p>
+
 - 🌱 I’m currently learning **Android development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Satyamkumarnavneet?tab=repositories](https://github.com/Satyamkumarnavneet?tab=repositories)
