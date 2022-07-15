@@ -1,4 +1,5 @@
-[![MasterHead](https://1.bp.blogspot.com/-gu5z4t7QXkw/Xd8bEk6gVxI/AAAAAAAANhQ/jXlVfYNQbOw3Uj4zsxT3fqT5jdrZP4FFQCLcBGAsYHQ/s1600/2000_600px.gif)](https://Satyamkumarnavneet.io)
+![1646131086056](https://user-images.githubusercontent.com/76639713/179171952-e0ae043b-68e6-4991-a772-f59a880a5356.jpg)
+
 <h1 align="center">Hi 👋, I'm Satyam Kumar Navneet</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif">
