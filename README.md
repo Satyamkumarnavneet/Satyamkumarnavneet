@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **DSA in Java**
 
-- 💬 Ask me about **Android & GCP**
+- 💬 Ask me about **Java & GCP**
 
 - 📫 How to reach me **navneetsatyamkumar@gmail.com**
 
