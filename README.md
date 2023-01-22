@@ -7,7 +7,11 @@
 
 
 **About me:**
-<p> As an ambitious and dedicated computer science engineering student at Chandigarh University, I am eager to gain hands-on experience in the field of web development and mobile application development. My strong interest in these areas has led me to actively learn and master new technologies such as Android development, Google Cloud, and more. I am actively seeking internship opportunities to apply my knowledge and skills, and further develop my understanding of the industry. My ultimate goal is to establish a successful career in this field and make a meaningful impact in the technology industry.
+<p> As an ambitious and dedicated computer science engineering student at Chandigarh University, I am eager to gain hands-on experience in 
+the field of web development and mobile application development. My strong interest in these areas has led me to actively learn and master 
+new technologies such as Android development, Google Cloud, and more. I am actively seeking internship opportunities to apply my knowledge 
+and skills, and further develop my understanding of the industry. My ultimate goal is to establish a successful career in this field and 
+make a meaningful impact in the technology industry.
 
 
 
