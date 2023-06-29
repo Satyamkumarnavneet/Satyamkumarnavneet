@@ -1,7 +1,7 @@
 ![Linkdin banner](https://user-images.githubusercontent.com/76639713/212092791-50063c23-b165-488d-bb18-e43ce50581dd.png)
 
 <h1 align="center">Hi 👋, I'm Satyam Kumar Navneet</h1>
-<h3 align="center">A passionate Java developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif">
 
 
