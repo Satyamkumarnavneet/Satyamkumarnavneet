@@ -1,4 +1,4 @@
-![Linkdin banner](https://user-images.githubusercontent.com/76639713/212092791-50063c23-b165-488d-bb18-e43ce50581dd.png)
+![grid-snake](https://github.com/Satyamkumarnavneet/Satyamkumarnavneet/assets/76639713/0d23419a-2918-498d-8a95-1480d552ebd6)
 
 <h1 align="center">Hi 👋, I'm Satyam Kumar Navneet</h1>
 <h3 align="center">A passionate developer from India</h3>
