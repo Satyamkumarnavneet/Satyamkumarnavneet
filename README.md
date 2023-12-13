@@ -5,7 +5,7 @@
 
 
   [Decode this message! 💻
-](https://github.com/Satyamkumarnavneet/TextFiles/blob/master/Decode)
+](https://github.com/Satyamkumarnavneet/TextFiles/blame/master/Decode)
 
 </h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/6b065a63af6ffe542f29d852cf02f54382438901dd3ee35cafa1752e586a2306/68747470733a2f2f7777772e77656232347a6f6e652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f31302f34363230372d70726f6772616d6d65722d312e676966">
