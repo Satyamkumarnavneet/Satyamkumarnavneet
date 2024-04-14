@@ -13,7 +13,7 @@
 
 
 **About me:**
-<p> I'm a driven computer science engineering student at Chandigarh University, with a keen interest in web and cloud development. I'm actively learning and mastering technologies like web development and Google Cloud. I'm on the lookout for internships to apply my skills and gain industry insights. My ultimate aim is to build a successful career and leave a meaningful mark in the tech industry.
+<p> I'm a driven computer science engineering student at Chandigarh University, with a keen interest in Java and cloud development. I'm actively learning and mastering technologies like Java development and Google Cloud. I'm on the lookout for internships to apply my skills and gain industry insights. My ultimate aim is to build a successful career and leave a meaningful mark in the tech industry.
 
 </p>
 
