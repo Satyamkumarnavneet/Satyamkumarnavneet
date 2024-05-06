@@ -42,4 +42,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyamkumarnavneet&" alt="satyamkumarnavneet" /></p>
 
-[![Satyamkumarnavneet's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Satyamkumarnavneet&bg_color=0d0c0c&color=19d75b&line=f5f5f5&point=19a422&area=true&hide_border=true)](https://github.com/Satyamkumarnavneet/github-readme-activity-graph)
+[![](https://github-readme-activity-graph.vercel.app/graph?username=Satyamkumarnavneet&bg_color=0d0c0c&color=19d75b&line=f5f5f5&point=19a422&area=true&hide_border=true)](https://github.com/Satyamkumarnavneet/github-readme-activity-graph)
