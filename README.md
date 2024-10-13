@@ -13,7 +13,7 @@
 
 
 **About me:**
-<p> I'm a recent graduate from Chandigarh University with a passion for Java and cloud development. I have been actively learning and mastering technologies like Java development and Google Cloud, continually refining my skills. I'm seeking internship opportunities where I can apply my expertise, gain valuable industry insights, and contribute effectively. My goal is to build a successful career while making a meaningful impact in the tech industry.
+<p> I'm a recent Computer Science Engineering graduate from Chandigarh University with a passion for Java and cloud development. I have been actively learning and mastering technologies like Java development and Google Cloud, continually refining my skills. I'm seeking internship opportunities where I can apply my expertise, gain valuable industry insights, and contribute effectively. My goal is to build a successful career while making a meaningful impact in the tech industry.
 
 </p>
 
