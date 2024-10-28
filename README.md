@@ -1,6 +1,11 @@
 ![grid-snake](https://github.com/Satyamkumarnavneet/Satyamkumarnavneet/assets/76639713/0d23419a-2918-498d-8a95-1480d552ebd6)
 
-<h1 align="center">Hey 👋, I'm Satyam Kumar Navneet</h1>
+<h1 align="center">Hey, I'm Satyam Kumar Navneet</h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Java+Developer;Cloud+Computing+Enthusiast;Always+learning+new+things&center=true&width=500&height=50">
+  </a>
+</p>
 <h3 align="center">01000001 00100000 01110000 01100001 01110011 01110011 01101001 01101111 01101110 01100001 01110100 01100101 00100000 01100100 01100101 01110110 01100101 01101100 01101111 01110000 01100101 01110010 00100000 01100110 01110010 01101111 01101101 00100000 01001001 01100100 01101001 01100001 00100000 01110111 01101001 01110100 01101000 00100000 01100001 00100000 01101011 01101110 01100001 01100011 01101011 00100000 01100110 01101111 01110010 00100000 01110011 01101111 01101100 01110110 01101001 01101110 01100111 00100000 01100011 01101111 01101101 01110000 01101100 01100101 01111000 00100000 01110000 01110010 01101111 01100010 01101100 01100101 01101101 01110011 00100001 00100001
 
 
@@ -16,6 +21,22 @@
 <p> I'm a recent Computer Science Engineering graduate from Chandigarh University with a passion for Java and cloud development. I have been actively learning and mastering technologies like Java development and Google Cloud, continually refining my skills. I'm seeking internship opportunities where I can apply my expertise, gain valuable industry insights, and contribute effectively. My goal is to build a successful career while making a meaningful impact in the tech industry.
 
 </p>
+
+```javascript
+const satyam = {
+    pronouns: "He" | "Him",
+    code: ["Java", "Python", "JavaScript", "C++"],
+    askMeAbout: ["Cloud", "Java", "DSA", "Tech"],
+    technologies: {
+        cloudPlatforms: ["GCP", "AWS", "Azure"],
+        devOps: ["Docker", "Kubernetes", "Jenkins"],
+        databases: ["MySQL", "MongoDB", "Oracle"],
+        misc: ["Spring Boot", "Git", "Linux"]
+    },
+    currentFocus: "Building scalable applications and mastering DSA",
+    funFact: "I debug with console.log and pretend I knew the issue all along!"
+};
+```
 
 - 🌱 I’m currently learning **DSA in Java**
 
@@ -43,3 +64,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyamkumarnavneet&" alt="satyamkumarnavneet" /></p>
 
 [![](https://github-readme-activity-graph.vercel.app/graph?username=Satyamkumarnavneet&bg_color=0d0c0c&color=19d75b&line=f5f5f5&point=19a422&area=true&hide_border=true)](https://github.com/Satyamkumarnavneet/github-readme-activity-graph)
+
