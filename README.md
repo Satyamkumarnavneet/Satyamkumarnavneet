@@ -22,20 +22,22 @@
 
 </p>
 
-```javascript
-const satyam = {
-    pronouns: "He" | "Him",
-    code: ["Java", "Python", "JavaScript", "C++"],
-    askMeAbout: ["Cloud", "Java", "DSA", "Tech"],
-    technologies: {
-        cloudPlatforms: ["GCP", "AWS", "Azure"],
-        devOps: ["Docker", "Kubernetes", "Jenkins"],
-        databases: ["MySQL", "MongoDB", "Oracle"],
-        misc: ["Spring Boot", "Git", "Linux"]
-    },
-    currentFocus: "Building scalable applications and mastering DSA",
-    funFact: "I debug with console.log and pretend I knew the issue all along!"
-};
+```java
+public class Satyam {
+    String pronouns = "He | Him";
+    List<String> code = Arrays.asList("Java", "Python", "JavaScript", "C++");
+    List<String> askMeAbout = Arrays.asList("Cloud", "Java", "DSA", "Tech");
+    Technologies technologies = new Technologies();
+    String currentFocus = "Building scalable applications and mastering DSA";
+    String funFact = "I debug with console.log and pretend I knew the issue all along!";
+
+    class Technologies {
+        List<String> cloudPlatforms = Arrays.asList("GCP", "AWS", "Azure");
+        List<String> devOps = Arrays.asList("Docker", "Kubernetes", "Jenkins");
+        List<String> databases = Arrays.asList("MySQL", "MongoDB", "Oracle");
+        List<String> misc = Arrays.asList("Spring Boot", "Git", "Linux");
+    }
+}
 ```
 
 - 🌱 I’m currently learning **DSA in Java**
