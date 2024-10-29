@@ -13,7 +13,7 @@
 ](https://github.com/Satyamkumarnavneet/TextFiles/blame/master/Decode)
 
 </h3>
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/Satyamkumarnavneet/Satyamkumarnavneet/master/developer.gif">
+<img align="right" alt="Coding" width="200" src="https://raw.githubusercontent.com/Satyamkumarnavneet/Satyamkumarnavneet/master/developer.gif">
 
 
 
