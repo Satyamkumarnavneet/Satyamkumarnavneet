@@ -29,7 +29,7 @@ public class Satyam {
     List<String> askMeAbout = Arrays.asList("Cloud", "Java", "DSA", "Tech");
     Technologies technologies = new Technologies();
     String currentFocus = "Building scalable applications and mastering DSA";
-    String funFact = "I debug with console.log and pretend I knew the issue all along!";
+    String funFact = "I debug with System.out.print and pretend I knew the issue all along!";
 
     class Technologies {
         List<String> cloudPlatforms = Arrays.asList("GCP", "AWS", "Azure");
